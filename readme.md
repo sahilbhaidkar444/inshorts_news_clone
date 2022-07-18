@@ -30,3 +30,7 @@ basic pixel formats. It should provide a solid foundation for a general image pr
 Under most circumstances, simply calling the open() function from this module will do the right thing. Under Unix, graphical 
 browsers are preferred under X11, but text-mode browsers will be used if graphical browsers are not available or an X11 display isn’t available. 
 If text-mode browsers are used, the calling process will block until the user exits the browser.
+
+# Output :
+<img src="https://cdn-icons-png.flaticon.com/512/7960/7960551.png" alt="App logo"
+style="width:150px;height:150px;">
