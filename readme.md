@@ -32,5 +32,4 @@ browsers are preferred under X11, but text-mode browsers will be used if graphic
 If text-mode browsers are used, the calling process will block until the user exits the browser.
 
 # Output :
-<img src="https://cdn-icons-png.flaticon.com/512/7960/7960551.png" alt="App logo"
-style="width:150px;height:150px;">
+<img src="https://github.com/sahilbhaidkar444/inshorts_news_clone/blob/main/output/news_output.PNG?raw=true" alt="Output">
